@@ -31,7 +31,7 @@ Let's take a look at the same data, in a different way and broken down even furt
   <br>
 </p>
 
-<img src="/analysis/fares_by_city_type.png" alt="fares_by_city_type.png" align="left" width="350">
+<img src="/analysis/total_fares_by_cityType.png" alt="fares_by_city_type.png" align="left" width="350">
 
 As we can clearly see, Urban cities are dominating when it comes to **percentage of total fares by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and in last place with the least amount of fares, we have Rural cities. 
 <br clear = "left"/>

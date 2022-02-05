@@ -13,6 +13,44 @@ As we can see Urban areas have the highest amount of drivers, and they are also 
 
 Although the other districts have lower ride count and total drivers compared to Urban, they do exceed in `average fare per ride` and `average fare per person`. This could be due to the fact that there is less supply of driveres, which will inevitably mean there will have fewer rides. By raising the average price per ride and driver, they are also increasing their revenue.  
 
+Just from this table alone we can see that the:
+
+- total rides
+- revenue
+- cost of fare per driver 
+- cost of fare per ride 
+
+are heavily affected by the number of drivers.
+
+---
+
+Let's take a look at the same data, in a different way and broken down even further. 
+
+<p>
+  <h3 align="center">Percentage of Total Fares by City Type</h3>
+  <br>
+</p>
+
+<img src="/analysis/fares_by_city_type.png" alt="fares_by_city_type.png" align="left" width="350">
+
+As we can clearly see, Urban cities are dominating when it comes to **percentage of total fares by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and in last place with the least amount of fares, we have Rural cities. 
+<br clear = "left"/>
+
+---
+
+<p>
+  <h3 align="center">Percentage of Total Fares by City Type</h3>
+  <br>
+</p>
+
+<img src="/analysis/fares_by_city_type.png" alt="fares_by_city_type.png" align="left" width="350">
+
+As we can clearly see, Urban cities are dominating when it comes to **percentage of total fares by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and in last place with the least amount of fares, we have Rural cities. 
+<br clear = "left"/>
+
+
+
+
 
 ## Summary 
 

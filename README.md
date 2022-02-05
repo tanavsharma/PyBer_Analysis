@@ -43,10 +43,25 @@ As we can clearly see, Urban cities are dominating when it comes to **percentage
   <br>
 </p>
 
-<img src="/analysis/total_drivers_by_city_type.png" alt="total_drivers_by_city_type" align="left" width="350">
+<img src="/analysis/total_drivers_by_city_type.png" alt="total_drivers_by_city_type" align="left" width="360">
 
-As we can clearly see, Urban cities are dominating when it comes to **percentage of total fares by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and in last place with the least amount of fares, we have Rural cities. 
+As we can clearly see, Urban cities are dominating yet again when it comes to **percentage of total drivers by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and barely making it in last place with the least amount of drivers, we have Rural cities. This gives us a better understanding at the importance of having a larger driver count, and how it overall benefits the cities.  
 <br clear = "left"/>
+
+---
+
+
+<p>
+  <h3 align="center">Percentage of Total Rides by City Type</h3>
+  <br>
+</p>
+
+<img src="/analysis/total_rides_by_city_type.png" alt="total_rides_by_city_type" align="left" width="360">
+
+As we can clearly see, Urban cities are dominating yet again when it comes to **percentage of total drivers by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and barely making it in last place with the least amount of drivers, we have Rural cities. This gives us a better understanding at the importance of having a larger driver count, and how it overall benefits the cities.  
+<br clear = "left"/>
+
+
 
 
 

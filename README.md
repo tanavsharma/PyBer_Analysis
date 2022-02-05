@@ -5,6 +5,13 @@ PyBer, an upcomming comming competitor to Uber wants us to create a summary Data
 
 ## Results
 
+Let's take a look at table, that summarizes number of `Total Rides`, `Total Drivers`, `Total Fares`, `Avg Fare per Ride`, `Avg Fare per Driver` by each city type:
+
+<img src="/analysis/pyberData_table_summary.png" alt="pyberData_table_summary"><br>
+
+As we can see Urban areas have the highest amount of drivers, and they are also the city with most amount of rides as well. Although they have a low amount in 
+
+
 ## Summary 
 
 ### Recommendation 1

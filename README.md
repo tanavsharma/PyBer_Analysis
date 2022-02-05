@@ -58,20 +58,27 @@ As we can clearly see, Urban cities are dominating yet again when it comes to **
 
 <img src="/analysis/total_rides_by_cityType.png" alt="total_rides_by_city_type" align="left" width="350">
 
-As we can clearly see, Urban cities are dominating yet again when it comes to **percentage of total rides by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and with the least amount it in last place with the least amount of rides. This is again of course linked to the **decreasing number of drivers available**, and also the **increased amount of fare charges**
+As we can clearly see, Urban cities are dominating yet again when it comes to **percentage of total rides by city type**. In rank, Urban city comes in **first place**, with Suburban comming in at **second** and with the least amount it in last place with the least amount of rides. This is again of course linked to the **decreasing number of drivers available**, and also the **increased amount of fare charges**.
 <br clear = "left"/>
-
-
-
-
-
-
 
 ## Summary 
 
-### Recommendation 1
+<p>
+  <h3 align="center">Big Picture</h3>
+  <br>
+</p>
+Finally, lets take a look at the big picture:<br>
+<img src="/analysis/PyBer_fare_summary.png" alt="PyBer_fare_summary">
 
-### Recommendation 2
+In this visual representation we come to the same conclusion. Urban is excelling in most areas, due to the increase in number of drivers, which has an impact on the number of rides, which also impacts the overall revenue the company generates from the cities. This again, has an impact on the cost per fare as well. Since the supply of drivers is less in other city types, we have higher fares to counteract that fact. Since the fare prices are higher, residents are less likely to use the service. 
 
-### Recommendation 3
+Here are a few recommendations:
 
+### Recommendation 1 - Best
+Increase the number of drivers in cities with low count. We can create incentives to entice residents to signup as an Pyber driver. Doing this, should make drivers more available, which means more people can use the service and the rate for trips can also be lowered. Once we have matched the demand and supply has reached their equalibrium, we can start increasing our revenue.
+
+### Recommendation 2 - Great
+If increasing driver count is not an option, we should look into creating some sort of loyalty program for the residents. We can offer a free ride for every 10 they take. They can collect points for every trip, and use those points to purchase rides in the future. We can also make these points transferable to our friends and family. People love being a part of a comunity. So if this is advertisied correctly, it can be a great success.
+
+### Recommendation 3 - Good
+Another option we should consider is decreasing the fare rate, to attract more business. Once we have built that strong reputation with out customers and are getting repeat customers consistently, we can slowly start to increase the price back up.
